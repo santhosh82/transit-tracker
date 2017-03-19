@@ -56,8 +56,9 @@ A serverless alexa skill to know the position of public transit in Logan, Utah u
 - The following link provides detailed instruction on how to deploy our flask-ask app using zappa into AWS lambda services.
 - https://developer.amazon.com/blogs/post/8e8ad73a-99e9-4c0f-a7b3-60f92287b0bf/new-alexa-tutorial-deploy-flask-ask-skills-to-aws-lambda-with-zappa
 
-** Happy coding **
-** Please feel free to contact [me](https://www.linkedin.com/in/santhoshboggarapu/) for any info / help to install the app. **
+ Happy coding 
+
+ Please feel free to contact [me](https://www.linkedin.com/in/santhoshboggarapu/) for any info / help to install the app. 
 
 
 
